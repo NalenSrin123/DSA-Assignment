@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/chhievtongly/Documents/GitHub/DSA-Assignment",
-      "program": "/Users/chhievtongly/Documents/GitHub/DSA-Assignment/build/Debug/outDebug"
+      "cwd": "/Users/chhievtongly/Documents/GitHub/DSA-Assignment/Bank-management",
+      "program": "/Users/chhievtongly/Documents/GitHub/DSA-Assignment/Bank-management/build/Debug/outDebug"
     }
   ]
 }
