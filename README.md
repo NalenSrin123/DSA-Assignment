@@ -9,7 +9,7 @@ Data Structure Algorithm Assignment repo. Bank Management project
 - After that commit to main
 - Wait for my review I'll pull your request if it doesn't interupt the main branch
 
-## Instruction github 
+## Guide github 
 ### Fork repositories on the right top
 ![Fork picture](/README-Image/FORK.png)
 
@@ -23,3 +23,23 @@ Data Structure Algorithm Assignment repo. Bank Management project
 ![Name repository](/README-Image/Createfork.png)
 
 -Done after that wait for my review I'll pull your request if it doesn't interupt the main branch
+
+### Using Github Desktop
+
+>[!NOTE]
+>Make sure you have Github desktop installed
+
+![Github Desktop](/README-Image/Github-desktop.png)
+
+#### After finished your code 
+
+![Github Summary](/README-Image/Github-summary.png)
+
+> [!IMPORTANT]
+> Write down your code summary for people can track what you're doing and make sure it's easy to understand also summary can't be empty.
+
+### Then commit to main
+
+![Github Commit](/README-Image/Github-commit.png)
+
+
