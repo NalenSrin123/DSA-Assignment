@@ -43,7 +43,7 @@
 
 ![Github Commit](/README-Image/Github-commit.png)
 
-### Lastly don't forget to push to origin 
+### Afterwards don't forget to push to origin 
 
 > [!IMPORTANT]
 > Make sure don't forget to push to origin 
@@ -51,3 +51,10 @@
 After push to origin everything is done ! 
 
 ![Github Push](/README-Image/Push-origin.png)
+
+### In conclusion don't forget to preview pull request and create a pull request 
+
+![Github Pull Request](/README-Image/Preview-pull-request.png)
+
+> [!NOTE]
+>After preview make sure create a pull request !
