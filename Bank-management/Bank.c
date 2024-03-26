@@ -21,9 +21,10 @@ int main() {
 
         printf("Option : ");
         scanf("%d" , &option); 
-
+        printf("Hello world");
         printf("You choose : %d " , option);
     }while(getch()==13);
+
 
     
     
