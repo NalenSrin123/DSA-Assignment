@@ -1,5 +1,6 @@
 # DSA-Assignment
-Data Structure Algorithm Assignment repo. Bank Management project
+
+## Project : Bank Management project
 
 ## Github Usage
 
@@ -9,7 +10,7 @@ Data Structure Algorithm Assignment repo. Bank Management project
 - After that commit to main
 - Wait for my review I'll pull your request if it doesn't interupt the main branch
 
-## Instruction github 
+## Guide github 
 ### Fork repositories on the right top
 ![Fork picture](/README-Image/FORK.png)
 
@@ -23,3 +24,37 @@ Data Structure Algorithm Assignment repo. Bank Management project
 ![Name repository](/README-Image/Createfork.png)
 
 -Done after that wait for my review I'll pull your request if it doesn't interupt the main branch
+
+### Using Github Desktop
+
+>[!NOTE]
+>Make sure you have Github desktop installed
+
+![Github Desktop](/README-Image/Github-desktop.png)
+
+#### After finished your code 
+
+![Github Summary](/README-Image/Github-summary.png)
+
+> [!IMPORTANT]
+> Write down your code summary for people can track what you're doing and make sure it's easy to understand also summary can't be empty.
+
+### Then commit to main
+
+![Github Commit](/README-Image/Github-commit.png)
+
+### Afterwards don't forget to push to origin 
+
+> [!IMPORTANT]
+> Make sure don't forget to push to origin 
+
+After push to origin everything is done ! 
+
+![Github Push](/README-Image/Push-origin.png)
+
+### In conclusion don't forget to preview pull request and create a pull request 
+
+![Github Pull Request](/README-Image/Preview-pull-request.png)
+
+> [!NOTE]
+>After preview make sure create a pull request !
