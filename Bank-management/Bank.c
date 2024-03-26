@@ -23,6 +23,8 @@ int main() {
 
     printf("You choose : %d " , option);
 
+    printf("Testing");
+
     
     
     return 0;
