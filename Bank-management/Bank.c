@@ -26,6 +26,8 @@ int main() {
     }while(getch()==13);
 
 
+    printf("Testing");
+
     
     
     return 0;
